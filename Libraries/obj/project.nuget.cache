@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ojkyxLzw5jfi7+SzLG/DVElkWiijXhJ0XYarDT5J6Nu1k+++AjuZcyUd6sFcYt5+MC89kwyOe+qBHSwncCgjQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tommen\\Desktop\\PublicRepot\\BoardGame-Randomizer\\Libraries\\Libraries.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tommen\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\Tommen\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.115.5\\stub.system.data.sqlite.core.netstandard.1.0.115.5.nupkg.sha512",
+    "C:\\Users\\Tommen\\.nuget\\packages\\system.data.sqlite.core\\1.0.115.5\\system.data.sqlite.core.1.0.115.5.nupkg.sha512"
+  ],
+  "logs": []
+}
